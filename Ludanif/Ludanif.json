@@ -33,6 +33,20 @@
 			"Skin": "fen_skin.png"
 		}
     },
+  	  "OctaneNoir Ludanif": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_ludanif.png",
+			
+			"Skin": "octane_noir_ludanif.png"
+		}
+    }, 
 	"Octane Ludanif": {
 		"BodyID": 23,
 		"SkinID": 0,
